@@ -16,3 +16,4 @@ rm -rf $1/priv-app/MiGameCenterSDKService/
 rm -rf $1/priv-app/MiuiVideo/
 rm -rf $1/priv-app/Music/
 rm -rf $1/priv-app/NewHome/
+
